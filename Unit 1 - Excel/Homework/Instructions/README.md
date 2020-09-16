@@ -124,7 +124,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 ## Submission
 
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
+* To submit your homework, upload the solution and files to a GitHub repo and submit the link to <https://bootcampspot.com/>.
 
 ## Employer-Ready Criteria
 
