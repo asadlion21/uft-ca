@@ -14,6 +14,8 @@
 
 7. Add anaconda to your `PATH` variables and register your default Python to 3.6.
 
+![anaconda_PATH](assets/anaconda_PATH.png)
+
 8. Click the Install button.
 
 9. Click the Next Button.
