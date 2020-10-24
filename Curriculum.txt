@@ -1,0 +1,24 @@
+Curriculum  - By Weeks
+
+01 Excel
+02 VBA Scripting
+03 Python
+04 Pandas
+05 Matplotlib
+06 Python APIs
+07 Project 1
+08 SQL
+09 Advanced Data Storage and Retrieval
+10 Web
+11 Web Scraping and Document Databases
+12 ETL Project
+13 Intro To JavaScript
+14 Interactive Visualizations and Dashboards
+15 D3
+16 Mapping Web
+17 Project 2
+18 R
+19 Tableau/Power BI
+20 Machine Learning
+21 Big Data
+22 Final Project

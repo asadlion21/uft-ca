@@ -1,0 +1,11 @@
+Additional Lectures 
+
+-- October 31st - Postman 
+-- November 21st -  SQL Server Management Studio
+-- December 12th - Cloud Intro (Azure) 
+-- January 16th - Azure Data Factory
+-- February 6th - Alteryx
+-- February 20th - Dash
+-- March 6th - Qlik Sense
+-- March 13th - Careers in Data
+-- March 20th - Data Architecture & Governance
