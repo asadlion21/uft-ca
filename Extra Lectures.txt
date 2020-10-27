@@ -1,6 +1,6 @@
 Additional Lectures 
 
--- October 31st - Postman 
+-- Novemeber 6th - Postman 
 -- November 21st -  SQL Server Management Studio
 -- December 12th - Cloud Intro (Azure) 
 -- January 16th - Azure Data Factory
