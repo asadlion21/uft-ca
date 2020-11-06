@@ -1,6 +1,7 @@
-Additional Lectures 
+Additional Lectures  
+All on Saturdays, beginning at 2:30 pm (after class and office hours)
 
--- Novemeber 6th - Postman 
+-- Novemeber 7th - Postman 
 -- November 21st -  SQL Server Management Studio
 -- December 12th - Cloud Intro (Azure) 
 -- January 16th - Azure Data Factory
