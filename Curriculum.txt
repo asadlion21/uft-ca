@@ -6,19 +6,19 @@ Curriculum  - By Weeks
 04 Pandas
 05 Matplotlib
 06 Python APIs
-07 Project 1 - Extracting Data
+07 Project 1 - Extract, Transform Data
 08 SQL
-09 Advanced Data Storage and Retrieval
+09 SQLAlchemy
 10 Web
-11 Web Scraping and Document Databases
+11 NoSQL
 12 Project 2 - Extract, Transform and Load Data
-13 Intro To JavaScript
-14 Interactive Visualizations and Dashboards
+13 Javascript
+14 Plotly
 15 D3
-16 Mapping Web
+16 Leaflet
 17 Project 3 - Visualize
 18 R
 19 Tableau/Power BI
 20 Machine Learning
 21 Big Data
-22 Final Project - Augmenting your App
+22 Final Project
